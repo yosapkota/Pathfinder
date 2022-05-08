@@ -1,0 +1,24 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+C:/Users/sapko/Downloads/Project4/Project4/main.cpp
+iostream
+-
+sampler.h
+C:/Users/sapko/Downloads/Project4/Project4/sampler.h
+
+C:/Users/sapko/Downloads/Project4/Project4/sampler.cpp
+sampler.h
+C:/Users/sapko/Downloads/Project4/Project4/sampler.h
+
+C:/Users/sapko/Downloads/Project4/Project4/sampler.h
+cstdint
+-
+random
+-
+
